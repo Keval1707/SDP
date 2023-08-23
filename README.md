@@ -4,9 +4,10 @@ Here are the files available in this directory:
 
 ## PDF Files
 
-- [Activity.pdf](Activity.pdf)
-- [Class.pdf](Class.pdf)
+- [Use_case](Use_case.pdf)
 - [Data_Dictionary.pdf](Data_Dictionary.pdf)
-- [Use_case.pdf](Use case.pdf)
-- [ER.png](ER.png)
+- [Class.pdf](Class.pdf)
+- [Activity.pdf](Activity.pdf)
 - [state.pdf](state.pdf)
+- [Sequence.pdf](Sequence.pdf)
+- [ER.png](ER.png)
